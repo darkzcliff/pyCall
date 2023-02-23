@@ -36,7 +36,7 @@ class console:
                 json.dump(data, write_file, indent=4)
 
         else:
-            self.default_json(self)
+            self.default_json()
 
     def default_json(self):
         set_format = self.format_json()
