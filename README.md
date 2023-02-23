@@ -4,4 +4,4 @@ Call any program on windows use python. Clean up your desktop from shortcut and 
 ## Sample usage
 - How to add a program:
 
-```>> -add "path\to\firefox" as ff``` -> make sure you're put _quote_ on every path. Then, you able launch Firefox use ```ff``` command.
+```>> -add "path\to\firefox" as ff``` -> make sure you're put _quote_ on every path. Then, you'll be able to launch Firefox use ```ff``` command.
