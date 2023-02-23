@@ -78,6 +78,9 @@ class filter:
 
         elif user_input == "-ls":
             filter.show_list()
+            
+        elif user_input == "-help":
+            user_usage()
 
         else: 
             console.run_program(user_input)
